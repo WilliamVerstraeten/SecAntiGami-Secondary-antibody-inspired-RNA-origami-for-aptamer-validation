@@ -1,0 +1,64 @@
+Group,Mean,Std,SEM,Mean_with_uncertainty,Source
+A 1 BSUVs,115.56666666666666,1.1015141094572196,0.6359594676112966,115.6+/-0.6,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 1 BSUVs A,117.63333333333333,2.218858565419014,1.2810585900383746,117.6+/-1.3,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 1 BSUVs AS,224.63333333333335,0.8020806277010607,0.4630814663149914,224.6+/-0.5,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 2 DSUVs,127.63333333333333,2.345918441321722,1.3544166435940035,127.6+/-1.4,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 2 DSUVs A,127.5,2.170253441421071,1.2529964086141672,127.5+/-1.3,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 2 DSUVs AS,125.5,1.153256259467078,0.6658328118479385,125.5+/-0.7,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 3 BSUVs,118.16666666666667,1.9139836293274108,1.1050389636167177,118.2+/-1.1,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 3 BSUVs A,119.16666666666667,1.4843629385474844,0.8569973421454941,119.2+/-0.9,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 3 BSUVs AS,190.9666666666667,2.0816659994661326,1.2018504251546631,191.0+/-1.2,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 4 BSUVs,117.66666666666667,0.7234178138070233,0.4176654695380555,117.7+/-0.4,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 4 BSUVs A,116.93333333333332,0.5773502691896257,0.3333333333333333,116.93+/-0.33,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 4 BSUVs AS,198.13333333333333,0.9073771725877541,0.5238744548500613,198.1+/-0.5,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 5 BSUVs,118.26666666666667,1.4977761292440683,0.8647414514048586,118.3+/-0.9,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 5 BSUVs A,163.4,8.345058418010021,4.818021724041238,163+/-5,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 5 BSUVs AS,445.8999999999999,29.478636332096507,17.019498621679002,446+/-17,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 6 BSUVs,117.5,2.0952326839756936,1.2096831541082689,117.5+/-1.2,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 6 BSUVs A,119.89999999999999,1.3114877048603972,0.7571877794400349,119.9+/-0.8,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 6 BSUVs AS,269.6333333333334,10.175624468961766,5.874899526327619,270+/-6,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 7 BSUVs,118.83333333333333,0.5507570547286147,0.31797973380565114,118.83+/-0.32,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+A 7 BSUVs S,124.13333333333333,0.8326663997864513,0.4807401700618642,124.1+/-0.5,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241011_clean.txt
+B 1 BSUVs,114.09999999999998,1.6093476939431022,0.9291573243177536,114.1+/-0.9,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 1 BSUVs A,120.0,2.4269322199023216,1.4011899704655815,120.0+/-1.4,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 1 BSUVs AS,190.66666666666666,3.5725807665234477,2.0626304672539924,190.7+/-2.1,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 2 DSUVs,127.7,0.9539392014169533,0.5507570547286147,127.7+/-0.6,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 2 DSUVs A,128.4333333333333,1.3012814197295397,0.7512951779723082,128.4+/-0.8,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 2 DSUVs AS,128.0666666666667,2.2233608194203107,1.2836579675979833,128.1+/-1.3,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 3 BSUVs,117.3,1.7058722109231956,0.9848857801796091,117.3+/-1.0,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 3 BSUVs A,116.39999999999999,0.1732050807568861,0.09999999999999906,116.40+/-0.10,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 3 BSUVs AS,122.39999999999999,1.5524174696260065,0.8962886439832526,122.4+/-0.9,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 4 BSUVs,114.96666666666665,2.5929391302792517,1.49703410485904,115.0+/-1.5,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 4 BSUVs A,120.3,2.0074859899884747,1.1590225767142484,120.3+/-1.2,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 4 BSUVs AS,125.96666666666665,1.9553345834749947,1.128912948125073,126.0+/-1.1,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 5 BSUVs,117.13333333333333,1.703917055884277,0.9837569708915821,117.1+/-1.0,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 5 BSUVs A,121.53333333333335,0.9865765724632471,0.5696002496878341,121.5+/-0.6,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 5 BSUVs AS,129.16666666666666,1.7156145643277048,0.990510530540243,129.2+/-1.0,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 6 BSUVs,117.06666666666668,0.35118845842842555,0.2027587510099412,117.07+/-0.20,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 6 BSUVs A,117.2,1.3527749258468695,0.7810249675906662,117.2+/-0.8,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 6 BSUVs AS,241.4333333333333,3.8004385711827164,2.1941842321109783,241.4+/-2.2,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 7 BSUVs,116.33333333333333,2.0984120980716203,1.2115187896924176,116.3+/-1.2,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+B 7 BSUVs S,117.26666666666665,1.422439219556797,0.8212456663169979,117.3+/-0.8,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241015_clean.txt
+C 1 BSUVs,117.7,0.5291502622129203,0.3055050463303906,117.70+/-0.31,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 1 BSUVs A,118.66666666666667,1.1015141094572218,0.635959467611298,118.7+/-0.6,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 1 BSUVs AS,121.13333333333333,1.266227994214838,0.7310570733153766,121.1+/-0.7,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 2 DSUVs,132.33333333333334,1.8502252115170499,1.068228023930801,132.3+/-1.1,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 2 DSUVs A,131.53333333333333,1.5885003409925222,0.9171210994798451,131.5+/-0.9,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 2 DSUVs AS,131.20000000000002,0.9643650760992997,0.5567764362830047,131.2+/-0.6,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 3 BSUVs,118.8,0.7549834435270745,0.4358898943540671,118.8+/-0.4,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 3 BSUVs A,118.86666666666667,1.5044378795195639,0.86858761471969,118.9+/-0.9,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 3 BSUVs AS,120.59999999999998,1.4000000000000037,0.8082903768654782,120.6+/-0.8,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 4 BSUVs,120.76666666666665,1.150362261782499,0.6641619615057125,120.8+/-0.7,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 4 BSUVs A,119.23333333333333,1.4977761292440683,0.8647414514048586,119.2+/-0.9,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 4 BSUVs AS,161.86666666666665,2.9569128044860005,1.7071744036402436,161.9+/-1.7,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 5 BSUVs,119.76666666666667,0.8962886439832484,0.5174724898753331,119.8+/-0.5,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 5 BSUVs A,124.5,0.6999999999999977,0.4041451884327367,124.5+/-0.4,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 5 BSUVs AS,862.2666666666668,253.9595308968209,146.62360352655062,(8.6+/-1.5)e+02,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 6 BSUVs,118.89999999999999,0.871779788708139,0.5033222956847192,118.9+/-0.5,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 6 BSUVs A,120.39999999999999,3.223352292257234,1.8610033136277115,120.4+/-1.9,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 6 BSUVs AS,213.29999999999998,1.7088007490635089,0.986576572463251,213.3+/-1.0,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 7 BSUVs,118.86666666666667,0.15275252316519375,0.08819171036881916,118.87+/-0.09,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+C 7 BSUVs S,120.39999999999999,1.252996408614167,0.7234178138070236,120.4+/-0.7,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_clean.txt
+D 1 BSUVs,116.8,2.651414716712569,1.530795000427337,116.8+/-1.5,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_additional.txt
+D 1 BSUVs A,119.53333333333335,0.9291573243177553,0.5364492313143685,119.5+/-0.5,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_additional.txt
+D 1 BSUVs AS,133.26666666666665,3.247049943153533,1.8746851587518516,133.3+/-1.9,/Users/wverstra/Desktop/Main_author_projects/Secantigami/Nano letters submission/Gallery proof/Code/data/241022_additional.txt

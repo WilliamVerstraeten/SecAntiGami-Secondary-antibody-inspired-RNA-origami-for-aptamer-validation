@@ -1,0 +1,10 @@
+Record	Type	Sample Name	Measurement Date and Time	T (∞C)	Z-Ave (d.nm)	PdI	Pk 1 Mean Int (d.nm)	Pk 2 Mean Int (d.nm)	Pk 3 Mean Int (d.nm)	Pk 1 Area Int (Percent)	Pk 2 Area Int (Percent)	Pk 3 Area Int (Percent)	Aggregation Index	Scattering Angle (∞)	Attenuator	Mean Count Rate (kcps)	Derived Count Rate (kcps)
+61	Size	1 BSUVs 1	Friday, 05 September 2025 14:19:29	25.0	119.0	0.091	131.3	0.0	0	100	0.0	0		174.7	6	157.2	38340.0
+62	Size	1 BSUVs 2	Friday, 05 September 2025 14:22:13	25.0	119.5	0.065	129.3	0.0	0	100	0.0	0		174.7	6	158.5	38650.0
+63	Size	1 BSUVs 3	Friday, 05 September 2025 14:23:38	25.0	120.7	0.069	130.2	0.0	0	100	0.0	0		174.7	6	157.9	38500.0
+95	Size	1 BSUVs Bio26	Friday, 05 September 2025 15:26:36	25.0	121.1	0.071	131.8	0.0	0	100	0.0	0		174.7	6	160.5	39140.0
+96	Size	1 BSUVs Bio27	Friday, 05 September 2025 15:29:32	25.0	118.8	0.094	130.2	0.0	0	100	0.0	0		174.7	6	161.8	39450.0
+97	Size	1 BSUVs Bio28	Friday, 05 September 2025 15:30:21	25.0	121.3	0.054	129.8	0.0	0	100	0.0	0		174.7	6	162.2	39560.0
+140	Size	1 BSUVs Bio 4KL43	Friday, 05 September 2025 16:26:34	25.0	173.9	0.14	203.4	0.0	0	100	0.0	0		174.7	6	147.4	35960.0
+141	Size	1 BSUVs Bio 4KL44	Friday, 05 September 2025 16:27:23	25.0	170.5	0.125	194.7	0.0	0	100	0.0	0		174.7	6	147.5	35980.0
+142	Size	1 BSUVs Bio 4KL45	Friday, 05 September 2025 16:28:49	25.0	173.0	0.069	188.7	0.0	0	100	0.0	0		174.7	6	147.3	35940.0

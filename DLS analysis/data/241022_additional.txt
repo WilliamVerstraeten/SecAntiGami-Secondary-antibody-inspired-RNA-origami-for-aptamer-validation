@@ -1,0 +1,10 @@
+Record	Type	Sample Name	Measurement Date and Time	T (°C)	Z-Ave (d.nm)	PdI	Pk 1 Mean Int (d.nm)	Pk 2 Mean Int (d.nm)	Pk 3 Mean Int (d.nm)	Pk 1 Area Int (Percent)	Pk 2 Area Int (Percent)	Pk 3 Area Int (Percent)	Aggregation Index	Scattering Angle (°)	Attenuator	Mean Count Rate (kcps)	Derived Count Rate (kcps)
+56	Size	1 BSUVs 1	Tuesday, 22 October 2024 14:39:12	25,0	107,8	0,042	114,2	0,000	0,000	100,0	0,0	0,0		173	8	268,9	6112,1
+57	Size	1 BSUVs 2	Tuesday, 22 October 2024 14:41:47	25,0	111,0	0,049	119,5	0,000	0,000	100,0	0,0	0,0		173	8	416,9	9475,5
+58	Size	1 BSUVs 3	Tuesday, 22 October 2024 14:44:21	25,0	110,0	0,041	116,7	0,000	0,000	100,0	0,0	0,0		173	8	403,9	9179,3
+74	Size	1 BSUVs A 1	Tuesday, 22 October 2024 15:36:15	25,0	110,8	0,077	120,3	0,000	0,000	100,0	0,0	0,0		173	8	379,1	8615,6
+75	Size	1 BSUVs A 2	Tuesday, 22 October 2024 15:38:18	25,0	110,8	0,064	118,5	0,000	0,000	100,0	0,0	0,0		173	8	378,3	8597,5
+76	Size	1 BSUVs A 3	Tuesday, 22 October 2024 15:40:21	25,0	111,4	0,058	119,8	0,000	0,000	100,0	0,0	0,0		173	8	369,6	8400,8
+92	Size	1 BSUVs AS 1	Tuesday, 22 October 2024 16:35:53	25,0	119,5	0,122	137,0	0,000	0,000	100,0	0,0	0,0		173	8	371,5	8442,6
+93	Size	1 BSUVs AS 2	Tuesday, 22 October 2024 16:37:57	25,0	118,9	0,088	131,7	0,000	0,000	100,0	0,0	0,0		173	8	364,5	8283,3
+94	Size	1 BSUVs AS 3	Tuesday, 22 October 2024 16:40:00	25,0	118,9	0,084	131,1	0,000	0,000	100,0	0,0	0,0		173	8	366,1	8320,9
