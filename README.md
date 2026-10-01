@@ -129,17 +129,7 @@ Confocal: `numpy`, `pandas`, `matplotlib`, `scikit-image`, `scipy`, `czifile`,
 `tifffile`. An interactive matplotlib backend is required for the GUV selection
 step.
 
-## Generative AI
-
-Parts of this analysis code were drafted with the assistance of ChatGPT and
-subsequently reviewed and edited by the authors, who take full responsibility
-for its content.
 
 ## Citation
 
 If you use this code, please cite the paper above.
-
-## Licence
-
-<!-- Choose a licence before making the repository public and add the
-     corresponding LICENSE file. MIT is the usual choice for analysis code. -->
